@@ -1,0 +1,15 @@
+{
+  "name": "starcraft-sound-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot, making sound like a StarCraft herous in Russian version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "AtNovember",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.0"
+  }
+}
